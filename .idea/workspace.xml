@@ -5,12 +5,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b09bf881-a690-4c34-bdc0-ba6d59ac8f88" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q10026.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1182.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1182A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1759.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q2178.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q2562.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q1024.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q1052.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q1074.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q11659.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q11660.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q11723.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q11727.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q1262.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q1262RE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q1325.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q1325RE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q1340.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q1402.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q14501.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q16499.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q1735.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q1769.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q1783.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q1788.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q18111.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q18258.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q18532.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q1890.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q1913.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q1938.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q20500.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q2193.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q2217.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q2331.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q24479.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q2468.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q2485.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q2491.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q2503.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q2512.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q25379.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q28015.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q2828.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q3273.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q3273RE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q4963.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q5635.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q72410.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q7568.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/아무래도.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,11 +83,11 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/hyemin/Desktop/Working/self/beakjoon&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hyemin/Desktop/Working/wine&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.intellij.featuresSuggester.FeatureSuggesterConfigurable&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -56,7 +95,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q2562">
+  <component name="RunManager" selected="Application.Q18258">
     <configuration name="Q03" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Q03" />
       <module name="beakjoon" />
@@ -64,36 +103,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1182" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q1182" />
+    <configuration name="Q1769" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q1769" />
       <module name="beakjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1182A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q1182A" />
+    <configuration name="Q1788" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q1788" />
       <module name="beakjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q15650" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q15650" />
+    <configuration name="Q18258" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q18258" />
       <module name="beakjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q15651" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q15651" />
+    <configuration name="Q2828" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q2828" />
       <module name="beakjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2562" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q2562" />
+    <configuration name="Q72410" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q72410" />
       <module name="beakjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q2562" />
-        <item itemvalue="Application.Q1182A" />
-        <item itemvalue="Application.Q15650" />
-        <item itemvalue="Application.Q15651" />
-        <item itemvalue="Application.Q1182" />
+        <item itemvalue="Application.Q18258" />
+        <item itemvalue="Application.Q1788" />
+        <item itemvalue="Application.Q72410" />
+        <item itemvalue="Application.Q2828" />
+        <item itemvalue="Application.Q1769" />
       </list>
     </recent_temporary>
   </component>
@@ -130,6 +169,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NumberFormatException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
