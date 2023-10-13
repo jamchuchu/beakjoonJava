@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b09bf881-a690-4c34-bdc0-ba6d59ac8f88" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1325_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q14888A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q14888B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q15651A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q15654.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q15655.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q15656.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q15657.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q15663.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q18352.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q1182B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q9663C.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +52,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q15663">
+  <component name="RunManager" selected="Application.Q1182B">
     <configuration name="Q03" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Q03" />
       <module name="beakjoon" />
@@ -68,15 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q15654" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q15654" />
-      <module name="beakjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q15655" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q15655" />
+    <configuration name="Q1182B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q1182B" />
       <module name="beakjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -103,13 +88,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Q9663C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q9663C" />
+      <module name="beakjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q1182B" />
+        <item itemvalue="Application.Q9663C" />
         <item itemvalue="Application.Q15663" />
         <item itemvalue="Application.Q15657" />
         <item itemvalue="Application.Q15656" />
-        <item itemvalue="Application.Q15655" />
-        <item itemvalue="Application.Q15654" />
       </list>
     </recent_temporary>
   </component>
