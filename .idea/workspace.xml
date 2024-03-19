@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b09bf881-a690-4c34-bdc0-ba6d59ac8f88" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1182B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q9663C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q1339.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q1339A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q1339B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q16953.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q1946.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q2212.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +32,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2Kd11tZaTMDkd8Eiv5njw4Mjnpu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -37,10 +45,17 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.Q1339.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1339A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1339B.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q16953.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1946.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/hyemin/Desktop/Working/self/minesearch&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ryzen™/Desktop/working/beakjoon&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
@@ -52,7 +67,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q1182B">
+  <component name="RunManager" selected="Application.Q2212">
     <configuration name="Q03" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Q03" />
       <module name="beakjoon" />
@@ -60,36 +75,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1182B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q1182B" />
+    <configuration name="Q1339" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q1339" />
       <module name="beakjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q15656" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q15656" />
+    <configuration name="Q1339A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q1339A" />
       <module name="beakjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q15657" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q15657" />
+    <configuration name="Q1339B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q1339B" />
       <module name="beakjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q15663" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q15663" />
+    <configuration name="Q16953" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q16953" />
       <module name="beakjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q9663C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q9663C" />
+    <configuration name="Q2212" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q2212" />
       <module name="beakjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q1182B" />
-        <item itemvalue="Application.Q9663C" />
-        <item itemvalue="Application.Q15663" />
-        <item itemvalue="Application.Q15657" />
-        <item itemvalue="Application.Q15656" />
+        <item itemvalue="Application.Q2212" />
+        <item itemvalue="Application.Q1339B" />
+        <item itemvalue="Application.Q1339A" />
+        <item itemvalue="Application.Q1339" />
+        <item itemvalue="Application.Q16953" />
       </list>
     </recent_temporary>
   </component>
