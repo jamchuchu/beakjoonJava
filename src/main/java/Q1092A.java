@@ -17,6 +17,8 @@ public class Q1092A {
 
 
 
+
+
         int m = Integer.parseInt(reader.readLine());
         str = reader.readLine().split(" ");
         List<Integer> boxes = new ArrayList<>();
