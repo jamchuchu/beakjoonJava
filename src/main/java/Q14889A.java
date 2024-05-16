@@ -22,17 +22,7 @@ public class Q14889A {
             }
         }
 
-        for(int i = 0; i < n; i++){
-            for(int j = 0; j < n; j++){
-                if(i < j){
-                    map[i][j] += map[j][i];
-                }
-            }
-        }
-
         dfs(n/2 , 0);
-
-
         System.out.println(answer);
     }
     //중복되지 않게 n/2씩 뽑기
@@ -57,11 +47,11 @@ public class Q14889A {
         int b = 0;
         for(int i = 0; i < n; i++){
             for(int j = 0; j < n; j++){
-                if(v[i] && v[j] && i < j){
+                if(v[i] && v[j]){
                     a += map[i][j];
                     continue;
                 }
-                if(!v[i] && !v[j] && i < j){
+                if(!v[i] && !v[j]){
                     b += map[i][j];
                 }
             }

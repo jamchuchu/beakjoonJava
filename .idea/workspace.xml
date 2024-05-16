@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b09bf881-a690-4c34-bdc0-ba6d59ac8f88" name="Changes" comment="24.05.16">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1026.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q14889A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b09bf881-a690-4c34-bdc0-ba6d59ac8f88" name="Changes" comment="24.05.17" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -154,7 +150,7 @@
       <option name="presentableId" value="Default" />
       <updated>1674289434536</updated>
       <workItem from="1715880642609" duration="82000" />
-      <workItem from="1715890449273" duration="3172000" />
+      <workItem from="1715890449273" duration="3531000" />
     </task>
     <task id="LOCAL-00001" summary="24.04.05">
       <option name="closed" value="true" />
@@ -196,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715880715636</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="24.05.17">
+      <option name="closed" value="true" />
+      <created>1715894042707</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715894042707</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,7 +221,8 @@
     <MESSAGE value="24.04.05" />
     <MESSAGE value="24.05.15" />
     <MESSAGE value="24.05.16" />
-    <option name="LAST_COMMIT_MESSAGE" value="24.05.16" />
+    <MESSAGE value="24.05.17" />
+    <option name="LAST_COMMIT_MESSAGE" value="24.05.17" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
