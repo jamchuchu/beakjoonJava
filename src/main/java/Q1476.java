@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class Q1476 {
     public static void main(String[] args) throws IOException {
+
         Scanner sc = new Scanner(System.in);
         int e = sc.nextInt();
         int s = sc.nextInt();
@@ -14,7 +15,9 @@ public class Q1476 {
         int c = 1;
 
         while(true){
-           if(e == a && s == b && m == c){
+           if(e == a
+
+                   && s == b && m == c){
                break;
            }
            answer++;

@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b09bf881-a690-4c34-bdc0-ba6d59ac8f88" name="Changes" comment="24.04.05">
+    <list default="true" id="b09bf881-a690-4c34-bdc0-ba6d59ac8f88" name="Changes" comment="24.05.15">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q1018.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q14501A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q14501B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q14501C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q2003.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Q1476.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Q1476.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,19 +47,26 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Q1018.executor": "Run",
     "Application.Q1092A.executor": "Run",
+    "Application.Q11047A.executor": "Run",
     "Application.Q1339.executor": "Run",
     "Application.Q1339A.executor": "Run",
     "Application.Q1339B.executor": "Run",
+    "Application.Q14501A.executor": "Run",
+    "Application.Q14501B.executor": "Run",
+    "Application.Q14501C.executor": "Run",
+    "Application.Q1476.executor": "Run",
     "Application.Q16953.executor": "Run",
     "Application.Q1946.executor": "Run",
+    "Application.Q2003.executor": "Run",
     "Application.Q2212.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Ryzen™/Desktop/project/everTrip",
+    "last_opened_file_path": "C:/Users/Ryzen™/Desktop/working/항해 캠프/memo",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -65,7 +78,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q1092A">
+  <component name="RunManager" selected="Application.Q14501C">
     <configuration name="Q03" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Q03" />
       <module name="beakjoon" />
@@ -73,36 +86,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1092A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q1092A" />
+    <configuration name="Q1018" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q1018" />
       <module name="beakjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1339" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q1339" />
+    <configuration name="Q14501A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q14501A" />
       <module name="beakjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1339A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q1339A" />
+    <configuration name="Q14501B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q14501B" />
       <module name="beakjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1339B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q1339B" />
+    <configuration name="Q14501C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q14501C" />
       <module name="beakjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2212" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q2212" />
+    <configuration name="Q2003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q2003" />
       <module name="beakjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -110,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q1092A" />
-        <item itemvalue="Application.Q2212" />
-        <item itemvalue="Application.Q1339B" />
-        <item itemvalue="Application.Q1339A" />
-        <item itemvalue="Application.Q1339" />
+        <item itemvalue="Application.Q14501C" />
+        <item itemvalue="Application.Q14501B" />
+        <item itemvalue="Application.Q14501A" />
+        <item itemvalue="Application.Q2003" />
+        <item itemvalue="Application.Q1018" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +148,31 @@
       <option name="project" value="LOCAL" />
       <updated>1712256236971</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="24.04.05">
+      <option name="closed" value="true" />
+      <created>1712266032130</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712266032131</updated>
+    </task>
+    <task id="LOCAL-00003" summary="24.04.05">
+      <option name="closed" value="true" />
+      <created>1712266062541</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712266062541</updated>
+    </task>
+    <task id="LOCAL-00004" summary="24.05.15">
+      <option name="closed" value="true" />
+      <created>1715711037807</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715711037807</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,7 +188,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="24.04.05" />
-    <option name="LAST_COMMIT_MESSAGE" value="24.04.05" />
+    <MESSAGE value="24.05.15" />
+    <option name="LAST_COMMIT_MESSAGE" value="24.05.15" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
