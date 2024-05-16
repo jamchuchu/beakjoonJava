@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b09bf881-a690-4c34-bdc0-ba6d59ac8f88" name="Changes" comment="24.05.15">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1018.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q14501A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q14501B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q14501C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q2003.java" afterDir="false" />
+    <list default="true" id="b09bf881-a690-4c34-bdc0-ba6d59ac8f88" name="Changes" comment="24.05.16">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q1026.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q14889A.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Q1476.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Q1476.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="TypeScript File" />
         <option value="Class" />
       </list>
     </option>
@@ -48,6 +45,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Q1018.executor": "Run",
+    "Application.Q1026.executor": "Run",
     "Application.Q1092A.executor": "Run",
     "Application.Q11047A.executor": "Run",
     "Application.Q1339.executor": "Run",
@@ -57,6 +55,7 @@
     "Application.Q14501B.executor": "Run",
     "Application.Q14501C.executor": "Run",
     "Application.Q1476.executor": "Run",
+    "Application.Q14889A.executor": "Run",
     "Application.Q16953.executor": "Run",
     "Application.Q1946.executor": "Run",
     "Application.Q2003.executor": "Run",
@@ -66,11 +65,18 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Ryzen™/Desktop/working/항해 캠프/memo",
+    "last_opened_file_path": "C:/Users/Ryzen™/Desktop/working/beakjoon",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "editor.preferences.import"
+    "settings.editor.selected.configurable": "editor.preferences.import",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2024.1.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -78,7 +84,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q14501C">
+  <component name="RunManager" selected="Application.Q14889A">
     <configuration name="Q03" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Q03" />
       <module name="beakjoon" />
@@ -86,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1018" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q1018" />
+    <configuration name="Q1026" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q1026" />
       <module name="beakjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -114,8 +120,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q2003" />
+    <configuration name="Q14889A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q14889A" />
       <module name="beakjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -123,13 +129,21 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q14889A" />
+        <item itemvalue="Application.Q1026" />
         <item itemvalue="Application.Q14501C" />
         <item itemvalue="Application.Q14501B" />
         <item itemvalue="Application.Q14501A" />
-        <item itemvalue="Application.Q2003" />
-        <item itemvalue="Application.Q1018" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -139,6 +153,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674289434536</updated>
+      <workItem from="1715880642609" duration="82000" />
+      <workItem from="1715890449273" duration="3172000" />
     </task>
     <task id="LOCAL-00001" summary="24.04.05">
       <option name="closed" value="true" />
@@ -172,8 +188,19 @@
       <option name="project" value="LOCAL" />
       <updated>1715711037807</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="24.05.16">
+      <option name="closed" value="true" />
+      <created>1715880715636</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715880715636</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -189,7 +216,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="24.04.05" />
     <MESSAGE value="24.05.15" />
-    <option name="LAST_COMMIT_MESSAGE" value="24.05.15" />
+    <MESSAGE value="24.05.16" />
+    <option name="LAST_COMMIT_MESSAGE" value="24.05.16" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
