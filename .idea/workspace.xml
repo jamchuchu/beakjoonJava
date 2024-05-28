@@ -4,17 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b09bf881-a690-4c34-bdc0-ba6d59ac8f88" name="Changes" comment="24.05.17">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q14500.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q14500A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q14500B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q15829.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q2075.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q2179.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q2179A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q2179B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/QBestAlbum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/QBestAlbumA.java" afterDir="false" />
+    <list default="true" id="b09bf881-a690-4c34-bdc0-ba6d59ac8f88" name="Changes" comment="24.05.21">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q1021.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q1032.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q10773.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q12100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q14425.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q2568.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q2644.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/QputMarbles.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +46,9 @@
     &quot;accountId&quot;: &quot;70271220-c4c0-40f2-b1d5-22ae6764cdd2&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/corretto-17.0.9/lib/src.zip!/java.base/java/lang/String.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -66,11 +67,14 @@
   "keyToString": {
     "Application.Q1018.executor": "Run",
     "Application.Q1026.executor": "Run",
+    "Application.Q1032.executor": "Run",
     "Application.Q1092A.executor": "Run",
     "Application.Q11047A.executor": "Run",
+    "Application.Q12100.executor": "Run",
     "Application.Q1339.executor": "Run",
     "Application.Q1339A.executor": "Run",
     "Application.Q1339B.executor": "Run",
+    "Application.Q14425.executor": "Run",
     "Application.Q14500.executor": "Run",
     "Application.Q14500A.executor": "Run",
     "Application.Q14500B.executor": "Run",
@@ -88,6 +92,9 @@
     "Application.Q2179A.executor": "Run",
     "Application.Q2179B.executor": "Run",
     "Application.Q2212.executor": "Run",
+    "Application.Q2568.executor": "Run",
+    "Application.Q2644.executor": "Run",
+    "Application.QputMarbles.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -102,7 +109,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "editor.preferences.import",
+    "settings.editor.selected.configurable": "preferences.general",
     "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2024.1.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
@@ -112,7 +119,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q2179B">
+  <component name="RunManager" selected="Application.Q2568">
     <configuration name="Q03" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Q03" />
       <module name="beakjoon" />
@@ -120,36 +127,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q15829" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q15829" />
+    <configuration name="Q1032" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q1032" />
       <module name="beakjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2075" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q2075" />
+    <configuration name="Q12100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q12100" />
       <module name="beakjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2179" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q2179" />
+    <configuration name="Q2568" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q2568" />
       <module name="beakjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2179A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q2179A" />
+    <configuration name="Q2644" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q2644" />
       <module name="beakjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2179B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q2179B" />
+    <configuration name="QputMarbles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QputMarbles" />
       <module name="beakjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -157,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q2179B" />
-        <item itemvalue="Application.Q2179A" />
-        <item itemvalue="Application.Q2179" />
-        <item itemvalue="Application.Q15829" />
-        <item itemvalue="Application.Q2075" />
+        <item itemvalue="Application.Q2568" />
+        <item itemvalue="Application.Q2644" />
+        <item itemvalue="Application.QputMarbles" />
+        <item itemvalue="Application.Q1032" />
+        <item itemvalue="Application.Q12100" />
       </list>
     </recent_temporary>
   </component>
@@ -189,6 +196,16 @@
       <workItem from="1716207501347" duration="5948000" />
       <workItem from="1716229150271" duration="1421000" />
       <workItem from="1716282189189" duration="12441000" />
+      <workItem from="1716302939034" duration="270000" />
+      <workItem from="1716387240867" duration="1996000" />
+      <workItem from="1716393561780" duration="9000" />
+      <workItem from="1716466548806" duration="9666000" />
+      <workItem from="1716526777132" duration="23000" />
+      <workItem from="1716727903919" duration="6641000" />
+      <workItem from="1716738630982" duration="19000" />
+      <workItem from="1716787576386" duration="3200000" />
+      <workItem from="1716820945738" duration="1387000" />
+      <workItem from="1716856040602" duration="4606000" />
     </task>
     <task id="LOCAL-00001" summary="24.04.05">
       <option name="closed" value="true" />
@@ -246,7 +263,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715944401203</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="24.05.21">
+      <option name="closed" value="true" />
+      <created>1716302967569</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1716302967569</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,7 +293,8 @@
     <MESSAGE value="24.05.15" />
     <MESSAGE value="24.05.16" />
     <MESSAGE value="24.05.17" />
-    <option name="LAST_COMMIT_MESSAGE" value="24.05.17" />
+    <MESSAGE value="24.05.21" />
+    <option name="LAST_COMMIT_MESSAGE" value="24.05.21" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
