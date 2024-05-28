@@ -24,6 +24,7 @@ public class Q2568 {
             list[a] = new int[]{a,b};
         }
 
+
         check();
 
         System.out.println(answer.size());
