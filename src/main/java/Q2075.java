@@ -7,6 +7,10 @@ import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
 public class Q2075 {
+
+    /*
+    * 339672	1084
+    * */
     static int n;
     static int[][] map;
 
