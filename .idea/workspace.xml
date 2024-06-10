@@ -4,66 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b09bf881-a690-4c34-bdc0-ba6d59ac8f88" name="Changes" comment="24.05.29">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Init.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1018A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1021A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1021B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1051.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q10868.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q10868A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q11286.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q11478.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1213.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1244.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1270.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1546.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q15650A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q15686.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q15686A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q15829A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q15829B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q15903.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q16926.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1706.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1706A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1715A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q17435.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1755.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1764.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1764A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1920A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1966.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q2002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q20291.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q2075A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q21939.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q21939A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q2346.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q24313.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q24511.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q2477.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q2493.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q25192.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q2615.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q2615A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q2615B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q2866.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q2941.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q3080.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q3080A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q3107.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q31780.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q4374.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q5525.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q7785.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q9021A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q9375.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q9935.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q9935A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q9935B.java" afterDir="false" />
+    <list default="true" id="b09bf881-a690-4c34-bdc0-ba6d59ac8f88" name="Changes" comment="24.06.07">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q1072.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q10815.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q11399.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q11561.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q11561A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q11561B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q11663.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q11834.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q1417.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q16120.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q18870A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q18870B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q19638.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q2304.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q2304A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q2470A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q28114.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q3079.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q3649.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Q2075.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Q2075.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Init.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Init.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,123 +77,141 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Q1018.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q1018A.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q1019.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q1021A.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q1021B.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q1026.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q1032.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q1051.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q10868.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q10868A.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q1092A.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q11047A.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q11286.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q11478.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q1193A.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q12100.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q1213.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q1244.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q1270.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q1339.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q1339A.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q1339B.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q14425.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q14500.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q14500A.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q14500B.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q14501A.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q14501B.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q14501C.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q1476.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q14889A.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q1546.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q15650A.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q15686.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q15686A.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q15829.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q15829A.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q15829B.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q15903.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q16926.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q16953.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q1706.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q1706A.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q1715A.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q1755.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q1764.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q1764A.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q1920A.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q1924.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q1946.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q1966.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q2002.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q2003.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q20291.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q2075.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q2075A.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q2179.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q2179A.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q2179B.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q21939.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q2212.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q2346.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q24313.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q24511.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q2477.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q2493.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q25192.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q25206A.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q2568.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q2568A.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q2615.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q2615B.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q2641.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q2644.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q2866.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q2941.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q3080.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q3080A.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q3107.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q31780.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q4374.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q5525.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q7785.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q8979.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q9021A.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q9375.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q9935.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q9935A.executor&quot;: &quot;Run&quot;,
-    &quot;Application.QputMarbles.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ToolWindowBuild.ShowToolbar&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ryzen™/Desktop/working/beakjoon&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\IntelliJ IDEA 2024.1.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Q1018.executor": "Run",
+    "Application.Q1018A.executor": "Run",
+    "Application.Q1019.executor": "Run",
+    "Application.Q1021A.executor": "Run",
+    "Application.Q1021B.executor": "Run",
+    "Application.Q1026.executor": "Run",
+    "Application.Q1032.executor": "Run",
+    "Application.Q1051.executor": "Run",
+    "Application.Q1072.executor": "Run",
+    "Application.Q10815.executor": "Run",
+    "Application.Q10868.executor": "Run",
+    "Application.Q10868A.executor": "Run",
+    "Application.Q1092A.executor": "Run",
+    "Application.Q11047A.executor": "Run",
+    "Application.Q11286.executor": "Run",
+    "Application.Q11399.executor": "Run",
+    "Application.Q11478.executor": "Run",
+    "Application.Q11561.executor": "Run",
+    "Application.Q11561B.executor": "Run",
+    "Application.Q11663.executor": "Run",
+    "Application.Q11834.executor": "Run",
+    "Application.Q1193A.executor": "Run",
+    "Application.Q12100.executor": "Run",
+    "Application.Q1213.executor": "Run",
+    "Application.Q1244.executor": "Run",
+    "Application.Q1270.executor": "Run",
+    "Application.Q1339.executor": "Run",
+    "Application.Q1339A.executor": "Run",
+    "Application.Q1339B.executor": "Run",
+    "Application.Q1417.executor": "Run",
+    "Application.Q14425.executor": "Run",
+    "Application.Q14500.executor": "Run",
+    "Application.Q14500A.executor": "Run",
+    "Application.Q14500B.executor": "Run",
+    "Application.Q14501A.executor": "Run",
+    "Application.Q14501B.executor": "Run",
+    "Application.Q14501C.executor": "Run",
+    "Application.Q1476.executor": "Run",
+    "Application.Q14889A.executor": "Run",
+    "Application.Q1546.executor": "Run",
+    "Application.Q15650A.executor": "Run",
+    "Application.Q15686.executor": "Run",
+    "Application.Q15686A.executor": "Run",
+    "Application.Q15829.executor": "Run",
+    "Application.Q15829A.executor": "Run",
+    "Application.Q15829B.executor": "Run",
+    "Application.Q15903.executor": "Run",
+    "Application.Q16120.executor": "Run",
+    "Application.Q16926.executor": "Run",
+    "Application.Q16953.executor": "Run",
+    "Application.Q1706.executor": "Run",
+    "Application.Q1706A.executor": "Run",
+    "Application.Q1715A.executor": "Run",
+    "Application.Q1755.executor": "Run",
+    "Application.Q1764.executor": "Run",
+    "Application.Q1764A.executor": "Run",
+    "Application.Q18870A.executor": "Run",
+    "Application.Q18870B.executor": "Run",
+    "Application.Q1920A.executor": "Run",
+    "Application.Q1924.executor": "Run",
+    "Application.Q1946.executor": "Run",
+    "Application.Q19638.executor": "Run",
+    "Application.Q1966.executor": "Run",
+    "Application.Q2002.executor": "Run",
+    "Application.Q2003.executor": "Run",
+    "Application.Q20291.executor": "Run",
+    "Application.Q2075.executor": "Run",
+    "Application.Q2075A.executor": "Run",
+    "Application.Q2179.executor": "Run",
+    "Application.Q2179A.executor": "Run",
+    "Application.Q2179B.executor": "Run",
+    "Application.Q21939.executor": "Run",
+    "Application.Q2212.executor": "Run",
+    "Application.Q2304.executor": "Run",
+    "Application.Q2304A.executor": "Run",
+    "Application.Q2346.executor": "Run",
+    "Application.Q24313.executor": "Run",
+    "Application.Q24511.executor": "Run",
+    "Application.Q2470A.executor": "Run",
+    "Application.Q2477.executor": "Run",
+    "Application.Q2493.executor": "Run",
+    "Application.Q25192.executor": "Run",
+    "Application.Q25206A.executor": "Run",
+    "Application.Q2568.executor": "Run",
+    "Application.Q2568A.executor": "Run",
+    "Application.Q2615.executor": "Run",
+    "Application.Q2615B.executor": "Run",
+    "Application.Q2641.executor": "Run",
+    "Application.Q2644.executor": "Run",
+    "Application.Q28114.executor": "Run",
+    "Application.Q2866.executor": "Run",
+    "Application.Q2941.executor": "Run",
+    "Application.Q3079.executor": "Run",
+    "Application.Q3080.executor": "Run",
+    "Application.Q3080A.executor": "Run",
+    "Application.Q3107.executor": "Run",
+    "Application.Q31780.executor": "Run",
+    "Application.Q3649.executor": "Run",
+    "Application.Q4374.executor": "Run",
+    "Application.Q5525.executor": "Run",
+    "Application.Q7785.executor": "Run",
+    "Application.Q8979.executor": "Run",
+    "Application.Q9021A.executor": "Run",
+    "Application.Q9375.executor": "Run",
+    "Application.Q9935.executor": "Run",
+    "Application.Q9935A.executor": "Run",
+    "Application.QputMarbles.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ToolWindowBuild.ShowToolbar": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Ryzen™/Desktop/working/beakjoon",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propCompiler",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2024.1.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q21939">
+  <component name="RunManager" selected="Application.Q11834">
     <configuration name="Q03" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Q03" />
       <module name="beakjoon" />
@@ -239,36 +219,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q11286" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q11286" />
+    <configuration name="Q11834" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q11834" />
       <module name="beakjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q15903" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q15903" />
+    <configuration name="Q16120" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q16120" />
       <module name="beakjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1715A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q1715A" />
+    <configuration name="Q19638" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q19638" />
       <module name="beakjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2075A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q2075A" />
+    <configuration name="Q2304A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q2304A" />
       <module name="beakjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q21939" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q21939" />
+    <configuration name="Q3649" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q3649" />
       <module name="beakjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -276,11 +256,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q21939" />
-        <item itemvalue="Application.Q1715A" />
-        <item itemvalue="Application.Q15903" />
-        <item itemvalue="Application.Q2075A" />
-        <item itemvalue="Application.Q11286" />
+        <item itemvalue="Application.Q11834" />
+        <item itemvalue="Application.Q16120" />
+        <item itemvalue="Application.Q2304A" />
+        <item itemvalue="Application.Q3649" />
+        <item itemvalue="Application.Q19638" />
       </list>
     </recent_temporary>
   </component>
@@ -334,7 +314,10 @@
       <workItem from="1717586239537" duration="21051000" />
       <workItem from="1717631179889" duration="16072000" />
       <workItem from="1717647325238" duration="1995000" />
-      <workItem from="1717671910051" duration="3186000" />
+      <workItem from="1717671910051" duration="13547000" />
+      <workItem from="1717748090769" duration="40237000" />
+      <workItem from="1717846672720" duration="2207000" />
+      <workItem from="1717937451589" duration="8593000" />
     </task>
     <task id="LOCAL-00001" summary="24.04.05">
       <option name="closed" value="true" />
@@ -424,7 +407,23 @@
       <option name="project" value="LOCAL" />
       <updated>1716981074322</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="24.06.07">
+      <option name="closed" value="true" />
+      <created>1717720213851</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1717720213851</updated>
+    </task>
+    <task id="LOCAL-00013" summary="24.06.07">
+      <option name="closed" value="true" />
+      <created>1717720250302</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1717720250302</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -449,7 +448,8 @@
     <MESSAGE value="24.05.21" />
     <MESSAGE value="24.05.28" />
     <MESSAGE value="24.05.29" />
-    <option name="LAST_COMMIT_MESSAGE" value="24.05.29" />
+    <MESSAGE value="24.06.07" />
+    <option name="LAST_COMMIT_MESSAGE" value="24.06.07" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
