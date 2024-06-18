@@ -4,37 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b09bf881-a690-4c34-bdc0-ba6d59ac8f88" name="Changes" comment="24.06.10">
-      <change afterPath="$PROJECT_DIR$/src/main/java/NaverTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q10282.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q11047.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1149.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q11726.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q11726A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1213A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1238.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1261.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q13305.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q13335.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1461.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q17086.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1713.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1713A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1916.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1931.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q20056.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q2012.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q2156.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q21610.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q2512A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q2839.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q4485.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q5972.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q8911.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q9084.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q9655.java" afterDir="false" />
+    <list default="true" id="b09bf881-a690-4c34-bdc0-ba6d59ac8f88" name="Changes" comment="24.06.17">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q10473.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q2636.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q9465.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Init.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Init.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Q1713.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Q1713.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,183 +61,186 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Q1018.executor": "Run",
-    "Application.Q1018A.executor": "Run",
-    "Application.Q1019.executor": "Run",
-    "Application.Q1021A.executor": "Run",
-    "Application.Q1021B.executor": "Run",
-    "Application.Q1026.executor": "Run",
-    "Application.Q10282.executor": "Run",
-    "Application.Q1032.executor": "Run",
-    "Application.Q1051.executor": "Run",
-    "Application.Q1063.executor": "Run",
-    "Application.Q1072.executor": "Run",
-    "Application.Q10815.executor": "Run",
-    "Application.Q10868.executor": "Run",
-    "Application.Q10868A.executor": "Run",
-    "Application.Q1092A.executor": "Run",
-    "Application.Q11047.executor": "Run",
-    "Application.Q11047A.executor": "Run",
-    "Application.Q11286.executor": "Run",
-    "Application.Q11399.executor": "Run",
-    "Application.Q11478.executor": "Run",
-    "Application.Q1149.executor": "Run",
-    "Application.Q11561.executor": "Run",
-    "Application.Q11561B.executor": "Run",
-    "Application.Q11663.executor": "Run",
-    "Application.Q11726.executor": "Run",
-    "Application.Q11726A.executor": "Run",
-    "Application.Q1182D.executor": "Run",
-    "Application.Q11834.executor": "Run",
-    "Application.Q1193A.executor": "Run",
-    "Application.Q12100.executor": "Run",
-    "Application.Q1213.executor": "Run",
-    "Application.Q1213A.executor": "Run",
-    "Application.Q1238.executor": "Run",
-    "Application.Q1244.executor": "Run",
-    "Application.Q1251.executor": "Run",
-    "Application.Q1251A.executor": "Run",
-    "Application.Q1261.executor": "Run",
-    "Application.Q1270.executor": "Run",
-    "Application.Q13305.executor": "Run",
-    "Application.Q13335.executor": "Run",
-    "Application.Q1339.executor": "Run",
-    "Application.Q1339A.executor": "Run",
-    "Application.Q1339B.executor": "Run",
-    "Application.Q1417.executor": "Run",
-    "Application.Q14425.executor": "Run",
-    "Application.Q14500.executor": "Run",
-    "Application.Q14500A.executor": "Run",
-    "Application.Q14500B.executor": "Run",
-    "Application.Q14501A.executor": "Run",
-    "Application.Q14501B.executor": "Run",
-    "Application.Q14501C.executor": "Run",
-    "Application.Q1461.executor": "Run",
-    "Application.Q1476.executor": "Run",
-    "Application.Q14889A.executor": "Run",
-    "Application.Q14890.executor": "Run",
-    "Application.Q1546.executor": "Run",
-    "Application.Q15650A.executor": "Run",
-    "Application.Q15686.executor": "Run",
-    "Application.Q15686A.executor": "Run",
-    "Application.Q15829.executor": "Run",
-    "Application.Q15829A.executor": "Run",
-    "Application.Q15829B.executor": "Run",
-    "Application.Q15903.executor": "Run",
-    "Application.Q16120.executor": "Run",
-    "Application.Q16918.executor": "Run",
-    "Application.Q16926.executor": "Run",
-    "Application.Q16953.executor": "Run",
-    "Application.Q1706.executor": "Run",
-    "Application.Q1706A.executor": "Run",
-    "Application.Q17086.executor": "Run",
-    "Application.Q1713.executor": "Run",
-    "Application.Q1713A.executor": "Run",
-    "Application.Q1715A.executor": "Run",
-    "Application.Q1755.executor": "Run",
-    "Application.Q1764.executor": "Run",
-    "Application.Q1764A.executor": "Run",
-    "Application.Q18352A.executor": "Run",
-    "Application.Q1863.executor": "Run",
-    "Application.Q18870A.executor": "Run",
-    "Application.Q18870B.executor": "Run",
-    "Application.Q1916.executor": "Run",
-    "Application.Q1920A.executor": "Run",
-    "Application.Q1924.executor": "Run",
-    "Application.Q1931.executor": "Run",
-    "Application.Q1939.executor": "Run",
-    "Application.Q1939A.executor": "Run",
-    "Application.Q1946.executor": "Run",
-    "Application.Q19638.executor": "Run",
-    "Application.Q1966.executor": "Run",
-    "Application.Q2002.executor": "Run",
-    "Application.Q2003.executor": "Run",
-    "Application.Q20056.executor": "Run",
-    "Application.Q2012.executor": "Run",
-    "Application.Q20291.executor": "Run",
-    "Application.Q2075.executor": "Run",
-    "Application.Q2075A.executor": "Run",
-    "Application.Q2156.executor": "Run",
-    "Application.Q21610.executor": "Run",
-    "Application.Q2179.executor": "Run",
-    "Application.Q2179A.executor": "Run",
-    "Application.Q2179B.executor": "Run",
-    "Application.Q21937.executor": "Run",
-    "Application.Q21939.executor": "Run",
-    "Application.Q2212.executor": "Run",
-    "Application.Q2304.executor": "Run",
-    "Application.Q2304A.executor": "Run",
-    "Application.Q2346.executor": "Run",
-    "Application.Q24313.executor": "Run",
-    "Application.Q24511.executor": "Run",
-    "Application.Q2470A.executor": "Run",
-    "Application.Q2477.executor": "Run",
-    "Application.Q2493.executor": "Run",
-    "Application.Q2512A.executor": "Run",
-    "Application.Q25192.executor": "Run",
-    "Application.Q25195.executor": "Run",
-    "Application.Q25206A.executor": "Run",
-    "Application.Q2568.executor": "Run",
-    "Application.Q2568A.executor": "Run",
-    "Application.Q2606A.executor": "Run",
-    "Application.Q2615.executor": "Run",
-    "Application.Q2615B.executor": "Run",
-    "Application.Q2641.executor": "Run",
-    "Application.Q2644.executor": "Run",
-    "Application.Q28114.executor": "Run",
-    "Application.Q2839.executor": "Debug",
-    "Application.Q2866.executor": "Run",
-    "Application.Q2941.executor": "Run",
-    "Application.Q3055.executor": "Run",
-    "Application.Q3079.executor": "Run",
-    "Application.Q3080.executor": "Run",
-    "Application.Q3080A.executor": "Run",
-    "Application.Q3107.executor": "Run",
-    "Application.Q31780.executor": "Run",
-    "Application.Q3649.executor": "Run",
-    "Application.Q4374.executor": "Run",
-    "Application.Q4485.executor": "Run",
-    "Application.Q4673A.executor": "Run",
-    "Application.Q5525.executor": "Run",
-    "Application.Q5972.executor": "Run",
-    "Application.Q7785.executor": "Run",
-    "Application.Q8911.executor": "Run",
-    "Application.Q8979.executor": "Run",
-    "Application.Q9021A.executor": "Run",
-    "Application.Q9084.executor": "Run",
-    "Application.Q9375.executor": "Run",
-    "Application.Q9655.executor": "Run",
-    "Application.Q9935.executor": "Run",
-    "Application.Q9935A.executor": "Run",
-    "Application.QputMarbles.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ToolWindowBuild.ShowToolbar": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Ryzen™/Desktop/working/beakjoon",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "project.propCompiler",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2024.1.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Q1018.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1018A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1019.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1021A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1021B.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1026.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q10282.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1032.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q10473.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1051.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1063.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1072.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q10815.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q10868.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q10868A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1092A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q11047.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q11047A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q11286.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q11399.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q11478.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1149.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q11561.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q11561B.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q11663.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q11726.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q11726A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1182D.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q11834.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1193A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q12100.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1213.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1213A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1238.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1244.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1251.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1251A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1261.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1270.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q13305.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q13335.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1339.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1339A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1339B.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1417.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q14425.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q14500.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q14500A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q14500B.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q14501A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q14501B.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q14501C.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1461.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1476.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q14889A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q14890.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1546.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q15650A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q15686.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q15686A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q15829.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q15829A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q15829B.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q15903.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q16120.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q16236.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q16918.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q16926.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q16953.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1706.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1706A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q17086.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1713.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1713A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1715A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1755.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1764.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1764A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q18352A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1863.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q18870A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q18870B.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1916.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1920A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1924.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1931.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1939.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1939A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1946.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q19638.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1966.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q2002.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q2003.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q20056.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q2012.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q20291.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q2075.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q2075A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q2156.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q21610.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q2179.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q2179A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q2179B.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q21937.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q21939.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q2212.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q2304.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q2304A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q2346.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q24313.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q24511.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q2470A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q2477.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q2493.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q2512A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q25192.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q25195.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q25206A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q2568.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q2568A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q2606A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q2615.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q2615B.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q2641.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q2644.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q28114.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q2839.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Q2866.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q2941.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q3055.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q3079.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q3080.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q3080A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q3107.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q31780.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q3649.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q4374.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q4485.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q4673A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q5525.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q5972.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q7785.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q8911.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q8979.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q9021A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q9084.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q9375.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q9465.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q9655.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q9935.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q9935A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QputMarbles.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ToolWindowBuild.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ryzen™/Desktop/working/beakjoon&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\IntelliJ IDEA 2024.1.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q2156">
+  <component name="RunManager" selected="Application.Q16236">
     <configuration name="Q03" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Q03" />
       <module name="beakjoon" />
@@ -270,22 +248,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q13305" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q13305" />
+    <configuration name="Q10473" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q10473" />
       <module name="beakjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1713" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q1713" />
-      <module name="beakjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q1713A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q1713A" />
+    <configuration name="Q16236" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q16236" />
       <module name="beakjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -305,13 +276,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Q9465" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q9465" />
+      <module name="beakjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q16236" />
+        <item itemvalue="Application.Q10473" />
+        <item itemvalue="Application.Q9465" />
         <item itemvalue="Application.Q2156" />
         <item itemvalue="Application.Q5972" />
-        <item itemvalue="Application.Q1713A" />
-        <item itemvalue="Application.Q1713" />
-        <item itemvalue="Application.Q13305" />
       </list>
     </recent_temporary>
   </component>
@@ -383,7 +361,10 @@
       <workItem from="1718437611808" duration="11671000" />
       <workItem from="1718549295197" duration="6961000" />
       <workItem from="1718586971590" duration="12669000" />
-      <workItem from="1718607154454" duration="10858000" />
+      <workItem from="1718607154454" duration="13080000" />
+      <workItem from="1718638468169" duration="6842000" />
+      <workItem from="1718671095093" duration="10643000" />
+      <workItem from="1718722004857" duration="2162000" />
     </task>
     <task id="LOCAL-00001" summary="24.04.05">
       <option name="closed" value="true" />
@@ -505,7 +486,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718239718569</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="24.06.17">
+      <option name="closed" value="true" />
+      <created>1718626777742</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1718626777742</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -532,7 +521,8 @@
     <MESSAGE value="24.05.29" />
     <MESSAGE value="24.06.07" />
     <MESSAGE value="24.06.10" />
-    <option name="LAST_COMMIT_MESSAGE" value="24.06.10" />
+    <MESSAGE value="24.06.17" />
+    <option name="LAST_COMMIT_MESSAGE" value="24.06.17" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

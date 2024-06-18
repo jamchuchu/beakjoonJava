@@ -1,57 +1,55 @@
 import java.io.*;
-import java.util.ArrayList;
+import java.util.*;
 
 public class Q1713 {
+
     static int n, m;
-    static ArrayList<int[]> deq = new ArrayList<>();
+    static String[] nums;
+
+    static List<String> list = new ArrayList<>();
+    static Map<String, Integer> candi = new HashMap<>();
 
     public static void main(String[] args) throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(System.out));
+
         n = Integer.parseInt(reader.readLine());
         m = Integer.parseInt(reader.readLine());
-        String[] str = reader.readLine().split(" ");
+        nums = reader.readLine().split(" ");
 
-        deq.add(new int[]{Integer.parseInt(str[0]),  1});
-
-        for(int i = 1; i< m ;i++){
-            // 순서대로 들고옴
-            int now = Integer.parseInt(str[i]);
-            // 안에 있으면
-            boolean flag = false;
-            for(int[] d : deq){
-                if(d[0] == now){
-                    flag = true;
-                    d[1]++;
+        for (int i = 0; i < m; i++) {
+            String current = nums[i];
+            if (candi.containsKey(current)) {
+                candi.put(current, candi.get(current) + 1);
+            } else {
+                if (candi.size() >= n) {
+                    // 최솟값 구하기
+                    int min = Collections.min(candi.values());
+                    String toRemove = null;
+                    for (String key : list) {
+                        if (candi.get(key) == min) {
+                            toRemove = key;
+                            break;
+                        }
+                    }
+                    candi.remove(toRemove);
+                    list.remove(toRemove);
                 }
+                candi.put(current, 1);
+                list.add(current);
             }
-            if(!flag) {
-                // 없으면
-                if(deq.size() >= n){
-                    deq.sort((o1, o2) -> o1[1] - o2[1]);
-                    deq.remove(0);
-                    deq.add(new int[]{now, 1});
-                }else{
-                    deq.add(new int[]{now, 1});
-                }
-
-            }
-            for(int[] d : deq){
-                System.out.print(d[0] + " " + d[1] + ", ");
-            }
-            System.out.println();
         }
 
-        deq.sort((o1, o2) -> o1[0] - o2[0]);
-        for(int[] d : deq){
-            writer.write(d[0] + " ");
+        List<Integer> result = new ArrayList<>();
+        for (String s : list) {
+            result.add(Integer.parseInt(s));
         }
-
+        Collections.sort(result);
+        for (int num : result) {
+            writer.write(num + " ");
+        }
 
         writer.flush();
         writer.close();
     }
-
-
-
 }
