@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b09bf881-a690-4c34-bdc0-ba6d59ac8f88" name="Changes" comment="24.06.19">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1027.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q10867.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q14503.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q14719.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q14719.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q16234.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1976.java" afterDir="false" />
+    <list default="true" id="b09bf881-a690-4c34-bdc0-ba6d59ac8f88" name="Changes" comment="24.06.25">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q13913.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q1922.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,6 +108,7 @@
     "Application.Q1339.executor": "Run",
     "Application.Q1339A.executor": "Run",
     "Application.Q1339B.executor": "Run",
+    "Application.Q13913.executor": "Run",
     "Application.Q1417.executor": "Run",
     "Application.Q14425.executor": "Run",
     "Application.Q14500.executor": "Run",
@@ -157,6 +152,7 @@
     "Application.Q18870B.executor": "Run",
     "Application.Q1916.executor": "Run",
     "Application.Q1920A.executor": "Run",
+    "Application.Q1922.executor": "Run",
     "Application.Q1924.executor": "Run",
     "Application.Q1931.executor": "Run",
     "Application.Q1939.executor": "Run",
@@ -252,7 +248,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q1976">
+  <component name="RunManager" selected="Application.Q1922">
     <configuration name="Q03" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Q03" />
       <module name="beakjoon" />
@@ -274,15 +270,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q14719" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q14719" />
+    <configuration name="Q13913" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q13913" />
       <module name="beakjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q16234" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q16234" />
+    <configuration name="Q1922" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q1922" />
       <module name="beakjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -297,11 +293,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q1922" />
+        <item itemvalue="Application.Q13913" />
         <item itemvalue="Application.Q1976" />
         <item itemvalue="Application.Q1027" />
         <item itemvalue="Application.Q10867" />
-        <item itemvalue="Application.Q16234" />
-        <item itemvalue="Application.Q14719" />
       </list>
     </recent_temporary>
   </component>
@@ -387,7 +383,10 @@
       <workItem from="1719146966578" duration="1961000" />
       <workItem from="1719230889689" duration="4184000" />
       <workItem from="1719240479075" duration="18000" />
-      <workItem from="1719317280772" duration="2153000" />
+      <workItem from="1719317280772" duration="4807000" />
+      <workItem from="1719409714337" duration="8033000" />
+      <workItem from="1719417990333" duration="30000" />
+      <workItem from="1719488551349" duration="3686000" />
     </task>
     <task id="LOCAL-00001" summary="24.04.05">
       <option name="closed" value="true" />
@@ -525,7 +524,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718724209572</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="24.06.25">
+      <option name="closed" value="true" />
+      <created>1719322642412</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1719322642412</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -554,7 +561,8 @@
     <MESSAGE value="24.06.10" />
     <MESSAGE value="24.06.17" />
     <MESSAGE value="24.06.19" />
-    <option name="LAST_COMMIT_MESSAGE" value="24.06.19" />
+    <MESSAGE value="24.06.25" />
+    <option name="LAST_COMMIT_MESSAGE" value="24.06.25" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
