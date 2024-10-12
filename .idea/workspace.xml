@@ -4,46 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b09bf881-a690-4c34-bdc0-ba6d59ac8f88" name="Changes" comment="24.06.27">
-      <change afterPath="$PROJECT_DIR$/src/main/java/1010.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1011.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1011A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1043.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1043A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1059.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1075A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1079.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1084.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1085.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1105.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1111.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1111A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1135.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1138.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q11559.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1167.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1205.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1212.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1235.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1246.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1253.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1374.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1436.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1449.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q16946.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1699.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1774.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q17837.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1789.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q1834.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q2438.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q2566.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q2738.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q28278.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q9466.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q9466A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Test1.java" afterDir="false" />
+    <list default="true" id="b09bf881-a690-4c34-bdc0-ba6d59ac8f88" name="Changes" comment="24.09.27">
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Kaka1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Kaka2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Kaka3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q1005A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q1157.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q1158.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q11725.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q1181A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q1325A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q15649.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q15655A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q15900.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q17086A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q17140.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q17140A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q17142.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q17779.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q17822.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q17825.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q18430.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q1919.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q19238.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q20061.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q20061A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q2178A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q2606B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q2644A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q2752.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q3055A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q3085.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q3085A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q4949.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q7562.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q7569.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kaka1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Q17837.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Q17837.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +57,7 @@
       <list>
         <option value="TypeScript File" />
         <option value="JavaScript File" />
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -98,6 +98,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Kaka1_2.executor": "Run",
+    "Application.Kaka2.executor": "Run",
+    "Application.Kaka3.executor": "Run",
+    "Application.Q1005A.executor": "Run",
     "Application.Q1011.executor": "Run",
     "Application.Q1018.executor": "Run",
     "Application.Q1018A.executor": "Run",
@@ -108,7 +112,7 @@
     "Application.Q1027.executor": "Run",
     "Application.Q10282.executor": "Run",
     "Application.Q1032.executor": "Run",
-    "Application.Q1043.executor": "Run",
+    "Application.Q1043.executor": "Debug",
     "Application.Q1043A.executor": "Debug",
     "Application.Q10473.executor": "Run",
     "Application.Q1051.executor": "Run",
@@ -138,10 +142,13 @@
     "Application.Q11559.executor": "Run",
     "Application.Q11561.executor": "Run",
     "Application.Q11561B.executor": "Run",
+    "Application.Q1158.executor": "Run",
     "Application.Q11663.executor": "Run",
     "Application.Q1167.executor": "Run",
+    "Application.Q11725.executor": "Run",
     "Application.Q11726.executor": "Run",
     "Application.Q11726A.executor": "Run",
+    "Application.Q1181A.executor": "Run",
     "Application.Q1182D.executor": "Run",
     "Application.Q11834.executor": "Run",
     "Application.Q1193A.executor": "Run",
@@ -159,6 +166,7 @@
     "Application.Q1253.executor": "Run",
     "Application.Q1261.executor": "Run",
     "Application.Q1270.executor": "Run",
+    "Application.Q1325A.executor": "Run",
     "Application.Q13305.executor": "Run",
     "Application.Q13335.executor": "Run",
     "Application.Q1339.executor": "Run",
@@ -183,12 +191,15 @@
     "Application.Q14889A.executor": "Run",
     "Application.Q14890.executor": "Run",
     "Application.Q1546.executor": "Run",
+    "Application.Q15649.executor": "Run",
     "Application.Q15650A.executor": "Run",
+    "Application.Q15655A.executor": "Run",
     "Application.Q15686.executor": "Run",
     "Application.Q15686A.executor": "Run",
     "Application.Q15829.executor": "Run",
     "Application.Q15829A.executor": "Run",
     "Application.Q15829B.executor": "Run",
+    "Application.Q15900.executor": "Run",
     "Application.Q15903.executor": "Run",
     "Application.Q16120.executor": "Run",
     "Application.Q16234.executor": "Run",
@@ -201,23 +212,32 @@
     "Application.Q1706.executor": "Run",
     "Application.Q1706A.executor": "Run",
     "Application.Q17086.executor": "Run",
+    "Application.Q17086A.executor": "Run",
     "Application.Q1713.executor": "Run",
     "Application.Q1713A.executor": "Run",
+    "Application.Q17140.executor": "Run",
+    "Application.Q17142.executor": "Run",
     "Application.Q1715A.executor": "Run",
     "Application.Q1755.executor": "Run",
     "Application.Q1764.executor": "Run",
     "Application.Q1764A.executor": "Run",
     "Application.Q1774.executor": "Run",
+    "Application.Q17779.executor": "Run",
+    "Application.Q17822.executor": "Run",
+    "Application.Q17825.executor": "Run",
     "Application.Q17837.executor": "Run",
     "Application.Q1789.executor": "Run",
     "Application.Q1834.executor": "Run",
     "Application.Q18352A.executor": "Run",
+    "Application.Q18430.executor": "Run",
     "Application.Q1863.executor": "Run",
     "Application.Q18870A.executor": "Run",
     "Application.Q18870B.executor": "Run",
     "Application.Q1916.executor": "Run",
+    "Application.Q1919.executor": "Run",
     "Application.Q1920A.executor": "Run",
     "Application.Q1922.executor": "Run",
+    "Application.Q19238.executor": "Run",
     "Application.Q1924.executor": "Run",
     "Application.Q1931.executor": "Run",
     "Application.Q1939.executor": "Run",
@@ -229,12 +249,15 @@
     "Application.Q2002.executor": "Run",
     "Application.Q2003.executor": "Run",
     "Application.Q20056.executor": "Run",
+    "Application.Q20061.executor": "Run",
+    "Application.Q20061A.executor": "Run",
     "Application.Q2012.executor": "Run",
     "Application.Q20291.executor": "Run",
     "Application.Q2075.executor": "Run",
     "Application.Q2075A.executor": "Run",
     "Application.Q2156.executor": "Run",
     "Application.Q21610.executor": "Run",
+    "Application.Q2178A.executor": "Run",
     "Application.Q2179.executor": "Run",
     "Application.Q2179A.executor": "Run",
     "Application.Q2179B.executor": "Run",
@@ -258,28 +281,36 @@
     "Application.Q2568.executor": "Run",
     "Application.Q2568A.executor": "Run",
     "Application.Q2606A.executor": "Run",
+    "Application.Q2606B.executor": "Run",
     "Application.Q2615.executor": "Run",
     "Application.Q2615B.executor": "Run",
     "Application.Q2641.executor": "Run",
     "Application.Q2644.executor": "Run",
+    "Application.Q2644A.executor": "Run",
     "Application.Q2738.executor": "Run",
+    "Application.Q2752.executor": "Run",
     "Application.Q28114.executor": "Run",
     "Application.Q28278.executor": "Run",
     "Application.Q2839.executor": "Debug",
     "Application.Q2866.executor": "Run",
     "Application.Q2941.executor": "Run",
     "Application.Q3055.executor": "Run",
+    "Application.Q3055A.executor": "Run",
     "Application.Q3079.executor": "Run",
     "Application.Q3080.executor": "Run",
     "Application.Q3080A.executor": "Run",
+    "Application.Q3085.executor": "Run",
     "Application.Q3107.executor": "Run",
     "Application.Q31780.executor": "Run",
     "Application.Q3649.executor": "Run",
     "Application.Q4374.executor": "Run",
     "Application.Q4485.executor": "Run",
     "Application.Q4673A.executor": "Run",
+    "Application.Q4949.executor": "Run",
     "Application.Q5525.executor": "Run",
     "Application.Q5972.executor": "Run",
+    "Application.Q7562.executor": "Run",
+    "Application.Q7569.executor": "Run",
     "Application.Q7785.executor": "Run",
     "Application.Q8911.executor": "Run",
     "Application.Q8979.executor": "Run",
@@ -293,6 +324,7 @@
     "Application.Q9935.executor": "Run",
     "Application.Q9935A.executor": "Run",
     "Application.QputMarbles.executor": "Run",
+    "Application.kaka1.executor": "Run",
     "Node.js.1010.js.executor": "Run",
     "Node.js.Q14719.js.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -320,7 +352,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q17837">
+  <component name="RunManager" selected="Application.Q20061A">
     <configuration name="Q03" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Q03" />
       <module name="beakjoon" />
@@ -335,36 +367,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1043" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q1043" />
+    <configuration name="Q17086A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q17086A" />
       <module name="beakjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1043A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q1043A" />
+    <configuration name="Q20061" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q20061" />
       <module name="beakjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1084" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q1084" />
+    <configuration name="Q20061A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q20061A" />
       <module name="beakjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1167" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q1167" />
+    <configuration name="Q2752" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q2752" />
       <module name="beakjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q17837" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q17837" />
+    <configuration name="Q3085" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q3085" />
       <module name="beakjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -372,21 +404,13 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q17837" />
-        <item itemvalue="Application.Q1167" />
-        <item itemvalue="Application.Q1043A" />
-        <item itemvalue="Application.Q1043" />
-        <item itemvalue="Application.Q1084" />
+        <item itemvalue="Application.Q20061A" />
+        <item itemvalue="Application.Q20061" />
+        <item itemvalue="Application.Q3085" />
+        <item itemvalue="Application.Q17086A" />
+        <item itemvalue="Application.Q2752" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
-        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -515,7 +539,10 @@
       <workItem from="1724075576450" duration="3983000" />
       <workItem from="1724140136758" duration="140000" />
       <workItem from="1727359662462" duration="9707000" />
-      <workItem from="1727372503829" duration="1109000" />
+      <workItem from="1727372503829" duration="1736000" />
+      <workItem from="1727619394699" duration="20000" />
+      <workItem from="1727622369741" duration="4000" />
+      <workItem from="1728588684868" duration="7000" />
     </task>
     <task id="LOCAL-00001" summary="24.04.05">
       <option name="closed" value="true" />
@@ -669,7 +696,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719492473551</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="24.09.27">
+      <option name="closed" value="true" />
+      <created>1727374238809</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1727374238809</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -700,7 +735,8 @@
     <MESSAGE value="24.06.19" />
     <MESSAGE value="24.06.25" />
     <MESSAGE value="24.06.27" />
-    <option name="LAST_COMMIT_MESSAGE" value="24.06.27" />
+    <MESSAGE value="24.09.27" />
+    <option name="LAST_COMMIT_MESSAGE" value="24.09.27" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -718,11 +754,84 @@
           </properties>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Q17142.java</url>
+          <line>61</line>
+          <properties class="Q17142" method="dfs">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Q1005A.java</url>
+          <line>69</line>
+          <properties class="Q1005A" method="dfs">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Q20061.java</url>
+          <line>104</line>
+          <properties class="Q20061" method="blockDown">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Q17140.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Q17142.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Q17822.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Q17825.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Q19238.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Q2606B.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Q2644A.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="reverseList.get(0)" />
+        <watch expression="list.get(0).get(1)" />
+        <watch expression="scores" />
+        <watch expression="map" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/beakjoon$Q17142.ic" NAME="Q17142 Coverage Results" MODIFIED="1727963141828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
